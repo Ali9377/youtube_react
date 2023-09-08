@@ -1,7 +1,9 @@
+import HeaderNav from "./containers/HeaderNav/HeaderNav";
+
 function App() {
   return (
     <div className="App">
-      Hello!
+      <HeaderNav />
     </div>
   );
 }
